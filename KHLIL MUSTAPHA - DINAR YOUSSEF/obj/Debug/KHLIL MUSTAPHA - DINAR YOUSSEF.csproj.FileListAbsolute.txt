@@ -1,0 +1,7 @@
+C:\Users\Mustapha\source\repos\KHLIL MUSTAPHA - DINAR YOUSSEF\obj\Debug\KHLIL MUSTAPHA - DINAR YOUSSEF.csproj.AssemblyReference.cache
+C:\Users\Mustapha\source\repos\KHLIL MUSTAPHA - DINAR YOUSSEF\obj\Debug\KHLIL MUSTAPHA - DINAR YOUSSEF.csproj.CoreCompileInputs.cache
+C:\Users\Mustapha\source\repos\KHLIL MUSTAPHA - DINAR YOUSSEF\bin\Debug\KHLIL MUSTAPHA - DINAR YOUSSEF.exe.config
+C:\Users\Mustapha\source\repos\KHLIL MUSTAPHA - DINAR YOUSSEF\bin\Debug\KHLIL MUSTAPHA - DINAR YOUSSEF.exe
+C:\Users\Mustapha\source\repos\KHLIL MUSTAPHA - DINAR YOUSSEF\bin\Debug\KHLIL MUSTAPHA - DINAR YOUSSEF.pdb
+C:\Users\Mustapha\source\repos\KHLIL MUSTAPHA - DINAR YOUSSEF\obj\Debug\KHLIL MUSTAPHA - DINAR YOUSSEF.exe
+C:\Users\Mustapha\source\repos\KHLIL MUSTAPHA - DINAR YOUSSEF\obj\Debug\KHLIL MUSTAPHA - DINAR YOUSSEF.pdb
